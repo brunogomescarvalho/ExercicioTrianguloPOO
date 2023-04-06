@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\bin\Debug\net6.0\TrianguloPOO.exe
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\bin\Debug\net6.0\TrianguloPOO.deps.json
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\bin\Debug\net6.0\TrianguloPOO.runtimeconfig.json
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\bin\Debug\net6.0\TrianguloPOO.dll
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\bin\Debug\net6.0\TrianguloPOO.pdb
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\TrianguloPOO.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\TrianguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\TrianguloPOO.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\TrianguloPOO.AssemblyInfo.cs
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\TrianguloPOO.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\TrianguloPOO.dll
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\refint\TrianguloPOO.dll
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\TrianguloPOO.pdb
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\TrianguloPOO.genruntimeconfig.cache
+C:\AP\Modulo_1\13 - TrianguloPOO\TrianguloPOO\obj\Debug\net6.0\ref\TrianguloPOO.dll
